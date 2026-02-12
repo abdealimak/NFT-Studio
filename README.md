@@ -1,2 +1,2 @@
 # NFT-Studio
-<h2>A Web3 Application </h2>
+<h4>A Web3 Application</h4>
